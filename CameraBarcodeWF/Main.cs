@@ -33,7 +33,7 @@ namespace CameraBarcodeWF
 
         private void Panel_OnDaySelected(object sender, DaySelectedEventArgs e)
         {
-            //MessageBox.Show($"From Main {e.SelectedDay.Date.ToShortDateString()}");
+            MessageBox.Show($"From Main {e.SelectedDay.Date.ToShortDateString()}");
         }
 
         private void GetDays()

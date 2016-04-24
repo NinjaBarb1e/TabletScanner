@@ -22,3 +22,6 @@ C:\Projects\CameraBarcodeWF\CameraBarcodeWF\bin\Debug\LinqToExcel.xml
 C:\Projects\CameraBarcodeWF\CameraBarcodeWF\bin\Debug\log4net.xml
 C:\Projects\CameraBarcodeWF\CameraBarcodeWF\obj\Debug\CameraBarcodeWF.DateItem.resources
 C:\Projects\CameraBarcodeWF\CameraBarcodeWF\obj\Debug\CameraBarcodeWF.DateList.resources
+C:\MobileProjects\SCCTablet\CameraBarcodeWF\bin\Debug\CameraBarcodeWF.exe.config
+C:\MobileProjects\SCCTablet\CameraBarcodeWF\obj\Debug\CameraBarcodeWF.exe
+C:\MobileProjects\SCCTablet\CameraBarcodeWF\obj\Debug\CameraBarcodeWF.pdb
