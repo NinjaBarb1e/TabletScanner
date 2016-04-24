@@ -1,0 +1,1 @@
+This is a simple, quickly thrown together, app to use inexpensive Win10 tables to scan barcodes and check values.
